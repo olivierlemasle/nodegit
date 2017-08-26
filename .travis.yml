@@ -1,6 +1,7 @@
 branches:
   only:
     - master
+    - test-upgrade-promisify-node
     - /^v\d+\.\d+\.\d+$/
 
 compiler: clang
